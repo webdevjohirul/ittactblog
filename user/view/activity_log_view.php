@@ -1,0 +1,2 @@
+<h1 style="width:90%; text-align:center; margin:250px auto 10px; font-size: 50px;">Uncomplated page, Coming Soon Page</h1>
+<h3 style="width:90%; text-align:center; margin: 10 auto; color: green">The next update will be completed in the project</h3>
